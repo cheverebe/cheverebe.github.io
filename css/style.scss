@@ -3,6 +3,9 @@ $black: #000000;
 $primary1: #a34318;
 $btnColor: #85310c;
 
+html {
+  scroll-behavior: smooth;
+}
 
 @mixin main-font {
   font-family: 'Poppins', sans-serif;
